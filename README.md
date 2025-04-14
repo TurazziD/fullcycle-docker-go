@@ -10,3 +10,5 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de arquivos em camadas, apresento uma imagem "raiz", talvez seja uma boa utilizá-la.
 Suba o projeto em um repositório Git remoto e coloque o link da imagem que subiu no Docker Hub.
 Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
+
+https://hub.docker.com/r/turazzid/fullcycle
